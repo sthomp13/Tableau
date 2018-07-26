@@ -2,6 +2,9 @@
 
 ## Task
 
+Tableau Public Link: https://public.tableau.com/profile/stephen5333#!/vizhome/Citibike_13/Story1?publish=yes
+
+
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing. If you're really ambitious, you can merge multiple datasets from different periods. Try to provide answers to the following questions:** Chosen Period 2017
 
 * How many trips have been recorded total during the chosen period?
